@@ -42,8 +42,13 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const studio = await $content('studios', params.slug).fetch();
-    return { studio };
+    try {
+      const studio = await $content('studios', params.slug).fetch();
+      return { studio };
+    } catch (error) {
+      console.error('Error al cargar el estudio:', error);
+      return { studio: null };
+    }
   }
 };
 </script>

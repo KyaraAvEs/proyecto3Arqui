@@ -12,3 +12,5 @@ export default {
       { src: '~/plugins/snipcart.js', mode: 'client' }
     ]
   }
+
+  

@@ -5,6 +5,8 @@
     "image": "studio/studio-ghibli.jpg",
     "slug": "studio-ghibli",
     "movies": [
-      { "name": "El viaje de Chihiro", "slug": "el-viaje-de-chihiro" }
+      { "name": "El viaje de Chihiro", 
+      "slug": "el-viaje-de-chihiro",
+    "price": 15.99 }
     ]
   }

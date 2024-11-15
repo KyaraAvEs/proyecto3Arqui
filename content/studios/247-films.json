@@ -5,6 +5,9 @@
     "image": "studio/247-films.jpg",
     "slug": "247-films",
     "movies": [
-      { "name": "Persepolis", "slug": "persepolis" }
+      { "name": "Persepolis", 
+      "slug": "persepolis",
+      "price": 15.99
+    }
     ]
   }

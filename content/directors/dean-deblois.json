@@ -6,5 +6,7 @@
     "slug": "dean-deblois",
     "movies": [
       { "name": "Cómo entrenar a tu dragón", "slug": "como-entrenar-a-tu-dragon" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

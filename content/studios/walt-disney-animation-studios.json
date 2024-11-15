@@ -6,6 +6,7 @@
     "slug": "walt-disney-animation-studios",
     "movies": [
       { "name": "Rey León", "slug": "rey-leon" },
-      { "name": "Frozen", "slug": "frozen" }
+      { "name": "Frozen", "slug": "frozen",
+    "price": 15.99 }
     ]
   }

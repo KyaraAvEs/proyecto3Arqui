@@ -6,5 +6,7 @@
     "slug": "hayao-miyazaki",
     "movies": [
       { "name": "El viaje de Chihiro", "slug": "el-viaje-de-chihiro" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

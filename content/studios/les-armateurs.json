@@ -5,6 +5,9 @@
     "image": "studio/les-armateurs.jpg",
     "slug": "les-armateurs",
     "movies": [
-      { "name": "Las trillizas de Belleville", "slug": "las-trillizas-de-belleville" }
+      { "name": "Las trillizas de Belleville",
+       "slug": "las-trillizas-de-belleville",
+       "price": 15.99 
+      }
     ]
   }

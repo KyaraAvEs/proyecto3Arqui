@@ -6,5 +6,7 @@
     "slug": "lee-unkrich",
     "movies": [
       { "name": "Coco", "slug": "coco" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

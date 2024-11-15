@@ -1,7 +1,8 @@
 <script>
   export default {
     async asyncData({ $content, params }) {
-      const studios = await $content('studios').fetch()
+      const studios = await $content('studios').fetch();
+      console.log(studios);
       return {
         studios
       }

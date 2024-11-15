@@ -6,5 +6,7 @@
     "slug": "vincent-paronnaud",
     "movies": [
       { "name": "Persepolis", "slug": "persepolis" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

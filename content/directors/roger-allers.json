@@ -6,5 +6,7 @@
     "slug": "roger-allers",
     "movies": [
       { "name": "Rey León", "slug": "rey-leon" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

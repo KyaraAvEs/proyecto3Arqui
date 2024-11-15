@@ -7,5 +7,7 @@
     "movies": [
       { "name": "Wall-E", "slug": "wall-e" },
       { "name": "Buscando a Nemo", "slug": "buscando-a-nemo" }
-    ]
+    ],
+     "price": 0.00,  
+  "url": "/directors/andrew-stanton"
   }

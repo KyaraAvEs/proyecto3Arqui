@@ -6,6 +6,9 @@
     "slug": "dreamworks-animation-llc",
     "movies": [
       { "name": "Shrek", "slug": "shrek" },
-      { "name": "Cómo entrenar a tu dragón", "slug": "como-entrenar-a-tu-dragon" }
+      { "name": "Cómo entrenar a tu dragón", 
+      "slug": "como-entrenar-a-tu-dragon",
+    "price": 15.99
+   }
     ]
   }

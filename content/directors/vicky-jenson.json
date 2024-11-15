@@ -6,5 +6,7 @@
     "slug": "vicky-jenson",
     "movies": [
       { "name": "Shrek", "slug": "shrek" }
-    ]
-  }
+    ],
+    "price": 0.00,  
+ "url": "/directors/andrew-stanton"
+ }

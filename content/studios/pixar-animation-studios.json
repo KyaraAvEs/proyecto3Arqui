@@ -9,6 +9,7 @@
       { "name": "Up", "slug": "up" },
       { "name": "Coco", "slug": "coco" },
       { "name": "Wall-E", "slug": "wall-e" },
-      { "name": "Buscando a Nemo", "slug": "buscando-a-nemo" }
+      { "name": "Buscando a Nemo", "slug": "buscando-a-nemo",
+    "price": 15.99 }
     ]
   }
